@@ -100,9 +100,9 @@ Run on GPU/TPU (Kaggle, Colab, or cloud)
 
 ---
 ## 🛠️ Tech Stack
-PyTorch
-NumPy
-tqdm
-einops
+1. PyTorch
+2. NumPy
+3. tqdm
+4. einops
 
 ---
